@@ -1,6 +1,6 @@
 # quiz_app
 
-My practice series: flutter development
+My practice series: Flutter Development
 
 ## Getting Started
 
